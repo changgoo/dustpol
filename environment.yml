@@ -1,0 +1,12 @@
+name: dustpol
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - python=3.7
+  - matplotlib
+  - healpy
+  - ipython
+  - jupyter
+prefix: /Users/ckim/miniconda3/envs/dustpol
