@@ -1,4 +1,4 @@
-name: dustpol
+name: synthetic
 channels:
   - conda-forge
   - defaults
@@ -9,4 +9,6 @@ dependencies:
   - healpy
   - ipython
   - jupyter
-prefix: /Users/ckim/miniconda3/envs/dustpol
+  - xarray
+  - pandas
+  - cmasher
